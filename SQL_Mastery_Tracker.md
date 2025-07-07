@@ -16,8 +16,8 @@ A structured guide for tracking and learning everything in SQL for interviews â€
 
 ### ðŸ”— 2. JOINS
 - [x] INNER JOIN
-- [x] LEFT JOIN
-- [ ] RIGHT JOIN
+- [x] LEFT OUTER JOIN
+- [ ] RIGHT OUTER JOIN
 - [ ] FULL OUTER JOIN (simulate using UNION)
 - [ ] SELF JOIN
 - [ ] CROSS JOIN
