@@ -10,7 +10,7 @@ A structured guide for tracking and learning everything in SQL for interviews â€
 - [x] SELECT, FROM, WHERE
 - [x] ORDER BY, LIMIT, OFFSET
 - [x] DISTINCT
-- [ ] BETWEEN, IN, LIKE, IS NULL
+- [ ] IN, BETWEEN LIKE, IS NULL
 
 ---
 
